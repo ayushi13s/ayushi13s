@@ -1,69 +1,43 @@
-<!-- ====================== HEADER ====================== -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=8A2BE2&text=Ayushi%20Sonkhiya&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:8A2BE2,100:FF0080&text=Ayushi%20Sonkhiya&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF4FD8&center=true&vCenter=true&width=650&lines=Electronics+Engineer;Developer;Full+Stack+Learner;Tech+Explorer;Always+Building"/>
-</p>
-
----
-
-# 🎮 Developer Room
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Electronics+Engineer;Full+Stack+Learner;Tech+Explorer;I+code+what+I+dream.;I+build+what+I+believe."/>
 </p>
 
 ---
 
-# 👤 Player Profile
+<h2 align="center">👩‍💻 Developer Dashboard</h2>
 
-```
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
+
+```yaml
 Name: Ayushi Sonkhiya
 Role: Developer
-Class: Electronics & Communication Engineer
-Skills: Programming • Databases • Web Development
-Mission: Build impactful technology
+Field: Electronics & Communication Engineering
+Focus: Web Development + Databases
+Goal: Build impactful technology
 ```
 
 ---
 
-# ⚡ XP Progress
+<h2 align="center">⚡ Developer Level</h2>
 
 ```
 Level 7 Developer
 
 XP Progress
-████████████████░░░░░░░░ 65%
+████████████████░░░░░░░░░ 65%
 ```
 
 ---
 
-# 🌳 Skill Tree
-
-```
-Programming
- ├─ C
- ├─ Python
- ├─ SQL
- └─ Problem Solving
-
-Web Development
- ├─ HTML
- ├─ CSS
- └─ Databases
-
-Tools
- ├─ VSCode
- ├─ Visual Studio
- └─ GitHub
-```
-
----
-
-# 🧠 Tech Stack
+<h2 align="center">🧠 Tech Stack</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,python,html,css,mysql,vscode,visualstudio,git,github"/>
@@ -71,88 +45,83 @@ Tools
 
 ---
 
-# 📊 Developer Dashboard
+<h3 align="center">🔐 Concepts</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/OOP-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Activity</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushi13s&theme=tokyo-night&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ayushi13s&theme=radical&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushi13s&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayushi13s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi13s&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi13s&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
 ---
 
-# 🔥 Streak System
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=ayushi13s&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi13s&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Coding Activity Graph
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushi13s&theme=react-dark"/>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 🗓 Coding Habit Tracker
-
-| Day       | Progress |
-| --------- | -------- |
-| Monday    | ███████  |
-| Tuesday   | █████    |
-| Wednesday | ███████  |
-| Thursday  | ██████   |
-| Friday    | █████    |
-| Saturday  | ███      |
-| Sunday    | ████     |
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-# 🌌 Skill Orbit
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,html,css,mysql,vscode,git,github&perline=4"/>
-</p>
-
----
-
-# 🌐 Connect With Me
+<h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ayushi-s13">
-<img src="https://img.shields.io/badge/LinkedIn-Ayushi_Sonkhiya-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Ayushi_Sonkhiya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ayushisonkhiya13@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ayushisonkhiya13-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-ayushisonkhiya13-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 👀 Profile Visitors
+<h2 align="center">👀 Visitor Count</h2>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ayushi13s&style=for-the-badge&color=blueviolet">
+<img src="https://komarev.com/ghpvc/?username=ayushi13s&label=Profile+Views&color=blue&style=flat"/>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8A2BE2,100:FF0080&section=footer"/>
 </p>
+
